@@ -1,6 +1,7 @@
 # Lockpick_RCM
+***This repo doesn't contain any code/binaries.***
+
 Nintendo Switch encryption key derivation bare metal RCM payload (fork of shchmue's original code)
-This repo doesn't contain any code/binaries.
 
 # Repos
 
