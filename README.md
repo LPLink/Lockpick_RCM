@@ -10,4 +10,4 @@ This repo doesn't contain any code/binaries.
 ##### RU
 
 * [git.org.ru](https://git.org.ru/GRJ2RX6BGOEGHZN7SFZE6H5WQ4/Lockpick_RCM)
-* [Gitflic](https://gitflic.ru/project/grj2rx6bgoeghzn7sfze6h5wq4/lockpick_rcm)
+* [Gitflic (RU)](https://gitflic.ru/project/grj2rx6bgoeghzn7sfze6h5wq4/lockpick_rcm)
